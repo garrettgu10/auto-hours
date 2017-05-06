@@ -6,6 +6,7 @@ use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\Writer\Excel2007;
 
 $spreadsheet = new Spreadsheet();
+$spreadsheet->getDefaultStyle()->getFont()->setSize(13);
 $sheet = $spreadsheet->getActiveSheet();
 
 $message = $_POST["msg"];
