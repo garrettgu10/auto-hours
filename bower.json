@@ -1,0 +1,17 @@
+{
+  "name": "autohours",
+  "authors": [
+    "Garrett Gu <garrettgu777@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

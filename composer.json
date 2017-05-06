@@ -1,0 +1,13 @@
+{
+    "name": "garrettgu/autohours",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Garrett Gu",
+            "email": "garrettgu777@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
